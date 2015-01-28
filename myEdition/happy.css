@@ -1,0 +1,15 @@
+/* 
+    Document   : happy
+    Created on : 17.05.2013, 12:23:44
+    Author     : Michael Hadorn <michael.hadorn@blogwerk.com>
+    Description:
+        Define global styles for happy in backend in wordpress
+*/
+
+.happyInfoMsg { cursor: pointer; }
+a.happyInfoMsg:visited,
+a.happyInfoMsg:hover,
+a.happyInfoMsg:focus,
+a.happyInfoMsg:link { color: black !important; }
+
+.unhappy { border: 1px solid #f00 !important; }
